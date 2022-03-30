@@ -1,0 +1,19 @@
+{
+  "name": "zinny",
+  "version": "1.0.0",
+  "description": "this package will console zinny",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "phone",
+    "show",
+    "console",
+    "print",
+    "zukwanike",
+    "woman"
+  ],
+  "author": "Mustapha Rufai",
+  "license": "ISC"
+}
